@@ -1,0 +1,1 @@
+web: gunicorn mysiteDiamanti.wsgi --log-file - 
